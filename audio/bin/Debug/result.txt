@@ -1,0 +1,19 @@
+pass Tuesday, December 11, 2018
+Fail
+Fail
+Fail
+Fail
+Fail
+Fail
+pass Wednesday, December 12, 2018
+pass Wednesday, December 12, 2018
+pass Wednesday, December 12, 2018
+pass Wednesday, December 12, 2018
+pass Wednesday, December 12, 2018
+You got 3 of 3 correct.
+You got 4 of 5 correct.
+You got 1 of 1 correct.
+You got 1 of 1 correct.
+You got 2 of 3 correct.
+You got 3 of 4 correct.
+You got 1 of 2 correct.

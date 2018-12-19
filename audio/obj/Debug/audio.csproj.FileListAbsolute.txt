@@ -1,0 +1,12 @@
+C:\Users\Leewood\source\repos\audio\audio\bin\Debug\audio.exe.config
+C:\Users\Leewood\source\repos\audio\audio\bin\Debug\audio.exe
+C:\Users\Leewood\source\repos\audio\audio\bin\Debug\audio.pdb
+C:\Users\Leewood\source\repos\audio\audio\obj\Debug\Interop.AudioDeviceManagerLib.dll
+C:\Users\Leewood\source\repos\audio\audio\obj\Debug\audio.csproj.ResolveComReference.cache
+C:\Users\Leewood\source\repos\audio\audio\obj\Debug\audio.audio.resources
+C:\Users\Leewood\source\repos\audio\audio\obj\Debug\audio.Properties.Resources.resources
+C:\Users\Leewood\source\repos\audio\audio\obj\Debug\audio.csproj.GenerateResource.cache
+C:\Users\Leewood\source\repos\audio\audio\obj\Debug\audio.csproj.CoreCompileInputs.cache
+C:\Users\Leewood\source\repos\audio\audio\obj\Debug\audio.exe
+C:\Users\Leewood\source\repos\audio\audio\obj\Debug\audio.pdb
+C:\Users\Leewood\source\repos\audio\audio\obj\Debug\audio.csprojResolveAssemblyReference.cache
